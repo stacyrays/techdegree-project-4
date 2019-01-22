@@ -2,8 +2,7 @@
  * Project 4 - OOP Game App
  * app.js */
 
-//Stacy Ray
-
+//Get the buttons and define a game variable
 const btn = document.getElementById("btn__reset");
 const keyboard = document.getElementById("qwerty");
 let game;
