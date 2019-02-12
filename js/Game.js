@@ -13,8 +13,8 @@ class Game {
   createPhrases() {
     const phrases = [
       new Phrase("Live for today"),
-      new Phrase("Learn to code"),
-      new Phrase("Fun with code"),
+      new Phrase("Coding is fun"),
+      new Phrase("Happy coding"),
       new Phrase("Short phrases rock"),
       new Phrase("Never give up")
     ];
