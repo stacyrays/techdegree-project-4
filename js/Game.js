@@ -12,7 +12,7 @@ class Game {
   }
   createPhrases() {
     const phrases = [
-      new Phrase("Live for today"),
+      new Phrase("Live today not tomorrow"),
       new Phrase("Coding is fun"),
       new Phrase("Happy coding"),
       new Phrase("Short phrases rock"),
